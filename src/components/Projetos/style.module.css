@@ -1,0 +1,10 @@
+.flexBox{
+    display: grid;
+    grid-template-columns: auto auto;
+    flex-direction: column;
+    align-items: center;
+    gap:58px;
+    justify-content: space-between;
+    background-color: var(--color-black);
+    color:var(--color-white)
+}

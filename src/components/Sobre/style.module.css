@@ -1,0 +1,8 @@
+.flexBox{
+    display: flex;
+    gap:6.25rem;
+    justify-content: space-between;
+    background-color: var(--color-black);
+    color:var(--color-white);
+    
+}

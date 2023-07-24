@@ -1,0 +1,14 @@
+.flexBox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:58px;
+    justify-content: space-between;
+    background-color: var(--color-black);
+    color:var(--color-white);
+    letter-spacing: -2.20;
+}
+
+.paragraph{
+    margin-bottom: 100px;
+}

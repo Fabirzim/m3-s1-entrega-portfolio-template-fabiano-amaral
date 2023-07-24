@@ -1,0 +1,14 @@
+:root{
+    --font-primary: 'Inter', sans-serif;
+
+    --color-white : #ffffff;
+    --color-black:#000000;
+    --color-primary: #6880ff;
+    --color-primary-Hover: #7c91ff;
+
+    
+}
+
+*{
+    background-color: var(--color-black);
+}

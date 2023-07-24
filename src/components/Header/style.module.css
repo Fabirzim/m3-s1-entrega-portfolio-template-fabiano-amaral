@@ -1,0 +1,37 @@
+.flexBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:58px;
+    justify-content: space-between;
+    background-color: var(--color-black);
+    color:var(--color-white)
+}
+
+
+.flexBox >img,
+.flexBox > div{
+    width: 100%;
+}
+
+.bannerSection{
+    padding: 2rem 0;
+}
+
+.bannerSection h1{
+margin-bottom: 1.875rem;
+}
+
+.bannerSection p{
+    margin-bottom: 6.25rem;
+}
+
+@media(min-width:870px){
+    .flexBox{
+        flex-direction: row;
+    }
+    .flexBox > img,
+    .flexBox > div {
+        width: 50%;
+    }
+}
