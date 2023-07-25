@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 17.938rem;
+    width: 16.938rem;
     height: 5.375rem;
     border-radius: 1.563rem;
     border: solid 0.063rem var(--color-white);
@@ -14,7 +14,6 @@
     flex-direction: column;
     justify-content: space-around;
     padding: 1.25rem;
-    width:80%;
     width: 23.438rem;
     height: 11.438rem;
     border-radius: 1.563rem;
@@ -22,7 +21,6 @@
 }
 
 .cardProject>img {
-   
     width: 2.313rem;
     height: 2.375rem;
 }

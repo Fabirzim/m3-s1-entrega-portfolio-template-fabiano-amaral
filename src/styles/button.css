@@ -1,5 +1,5 @@
 .btn {
-    display: inline-flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     gap: .6rem;
@@ -7,7 +7,7 @@
     height: 0.313rem;
     border-radius: 0.75rem;
     background-color: var(--color-primary);
-    padding: 1.875rem;
+    padding: 1.175rem;
     color: var(--color-white);
     font-family: 0.875rem;
     line-height: 1.059rem;

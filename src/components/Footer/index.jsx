@@ -11,7 +11,7 @@ export const Footer = () => {
                 <div className={styles.container}>
                     <div className={styles.flexBox}>
                         <h2 className="title2">Contato</h2>
-                        <p className="paragraph">Todos os direitos reservados - José da Silva</p>
+                        <p className="title__footer">Todos os direitos reservados - José da Silva</p>
                     </div>
                     <img className={styles.img__footer} src={Footers} alt="Footer"></img>
                     <img className={styles.img__footer} src={FootersTwo} alt="Footer"></img>
